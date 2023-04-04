@@ -1,0 +1,8 @@
+{
+    "name": "The Adventure of us",
+    "assets": {
+        "characters": {
+            "owlet": "assets/owlet"
+        }
+    }
+}
